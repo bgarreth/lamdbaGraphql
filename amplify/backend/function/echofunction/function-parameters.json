@@ -1,0 +1,12 @@
+{
+    "permissions": {
+        "api": {
+            "lambdagraphql": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        }
+    }
+}
