@@ -16,5 +16,27 @@
                 "lambdagraphql7006dba3": {}
             }
         }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-lambdagraphql-test-170047-authRole",
+            "UnauthRoleArn": "arn:aws:iam::299854659728:role/amplify-lambdagraphql-test-170047-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::299854659728:role/amplify-lambdagraphql-test-170047-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-lambdagraphql-test-170047-deployment",
+            "UnauthRoleName": "amplify-lambdagraphql-test-170047-unauthRole",
+            "StackName": "amplify-lambdagraphql-test-170047",
+            "StackId": "arn:aws:cloudformation:us-east-1:299854659728:stack/amplify-lambdagraphql-test-170047/69675110-3ba6-11ea-bdc9-0e1b8dfea4f7",
+            "AmplifyAppId": "d1x5oow8pg4hqg"
+        },
+        "categories": {
+            "auth": {
+                "lambdagraphql7006dba3": {}
+            },
+            "function": {
+                "echofunction": {},
+                "lambdagraphql": {}
+            }
+        }
     }
 }
